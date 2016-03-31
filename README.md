@@ -1,8 +1,8 @@
-#### BasicStructure
+#### SavingsCaltulator
 
-### March 26, 2016
+### March 30, 2016
 
-Basic structure for future projects
+A savings calulator exercise
 
 * Git
 * Java 7
